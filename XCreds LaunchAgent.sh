@@ -1,22 +1,5 @@
 ﻿#!/bin/bash
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#				
-# Script Name:	Setup_XCreds_LauchAgent.sh
-#
-# Author:		Sven Ramm
-# Date:			Tue Nov 29 09:53:38 UTC 2022
-# Version:		2.0
-#				
-# Purpose:		- Launch XCreds Menubar Plugin right post User login
-#
-# Notes:		- 
-#
-# Changes:		- Tue Nov 29 09:53:38 UTC 2022
-#                   - Script creation			  
-# 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
 # Launch AGENT name
 strAGENTPATH=/Library/LaunchAgents/
 PLIST_NAME=com.your_company.xcreds
